@@ -1,0 +1,10 @@
+{
+        "server": {
+                "url": "wss://irc-websocket.digitalirc.org:8443",
+                "autojoin": "#gamja",
+                "auth": "optional",
+                "nick": "Digital-*",
+                "autoconnect": false,
+                "ping": 60
+        }
+}
